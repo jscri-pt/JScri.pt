@@ -1,7 +1,3 @@
-| Registered Domains |                                                       | Official Domains |
-|--------------------|                                                       |------------------|
-                                                                             | jscri.pt |
-
 | Name                | Domain              | CNAME Record        |
 |---------------------|---------------------|---------------------|
 | @                   | jscri.pt            | ---                 |
