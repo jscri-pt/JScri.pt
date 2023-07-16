@@ -1,4 +1,4 @@
-| Name | Domain | CNAME Record |
-|-------------|-------------|-------------|
-| @      | jscri.pt     | --      |
-| br      | jscri.pt      | --      |
+| Name | Domain  | CNAME Record |
+|------|---------|--------------|
+| @    | jscri.pt| --           |
+| br   | jscri.pt| --           |
