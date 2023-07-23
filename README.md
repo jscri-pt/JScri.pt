@@ -6,7 +6,7 @@ The purpose of this service is to provide friendly and memorable URLs for JavaSc
 
 ## How to request a subdomain
 
-1. Open a [new issue](https://github.com/jscri-pt/JScri.pt/issues/new?title=exemplo.jscri.pt&body=Link:%20my%20project%20link%0ACNAME:%20user.github.io) in this repository. The issue title should be the subdomain you are requesting. For example, if you want `my-project.JScri.pt`, the issue title should be `my-project`.
+1. Open a [new issue](https://github.com/jscri-pt/JScri.pt/issues/new?title=my-project.jscri.pt&body=Link:%20my%20project%20link%0ACNAME:%20user.github.io) in this repository. The issue title should be the subdomain you are requesting. For example, if you want `my-project.JScri.pt`, the issue title should be `my-project`.
 
 2. In the issue body, include a link to your project's website or GitHub repository.
 
