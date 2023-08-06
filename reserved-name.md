@@ -1,3 +1,41 @@
+# **Description on Subdomain Reservation**
+
+The act of reserving specific subdomains is a standard practice in the management of top-level domains and subdomains. This measure is taken to:
+
+1. **Protect Brand and Reputation:** Keywords such as names of large companies (e.g., 'google', 'apple', 'microsoft') are reserved to prevent malicious use, like phishing or misrepresentation.
+  
+2. **Avoid Confusion:** Subdomains like 'mail', 'webmail', and 'api' are common standards and could lead to confusion if used by third parties.
+
+3. **System Maintenance:** Some subdomains, such as 'ns1' to 'ns9', 'cdn', and 'assets', are reserved for the system's technical and operational purposes.
+
+4. **Ensure Security:** Reserving keywords like 'login', 'account', 'billing', and 'invoice' prevents phishing attempts or scams.
+
+5. **Prevent Misuse:** Names that could be misused or are highly sought-after (e.g., 'admin', 'test', 'alpha', 'beta') are reserved to avoid complications and potential conflicts.
+
+---
+
+# **Subdomain Reservation Policy**
+
+The JScript subdomain reservation policy aims to ensure the integrity, security, and efficiency of our service. Below are the guidelines of this policy:
+
+1. **Periodic Review:** This list of reserved subdomains is subject to periodic reviews. During these reviews, new subdomains may be added or removed.
+
+2. **Additions without Notice:** JScript reserves the right to add new subdomains to the list at any time and without prior notice. This decision is based on operational needs, security concerns, and community feedback.
+
+3. **Unblocking Request:** If an entity or individual wishes to use a reserved subdomain, they can request a review. JScript will analyze each request individually and may release the subdomain at its discretion, considering the associated risks and benefits.
+
+4. **Usage Priority:** Subdomains indicated as "May be released under team review" have an additional layer of review. Releasing these subdomains is discretionary and will be decided on a case-by-case basis.
+
+5. **Protection Against Misuse:** If an unreserved subdomain is used in a way that violates our usage policy, compromises security, or tarnishes JScript's reputation, it may be suspended or moved to the reserved list.
+
+We thank all our users and partners for their understanding and reiterate our commitment to the security, reliability, and integrity of our services.
+
+---
+
+# **List of Reserved Subdomains**
+
+
+
 | Name                | Domain              | Reason                                         |
 |---------------------|---------------------|------------------------------------------------|
 | @                   | jscri.pt            | Reserved for JScript                           |
